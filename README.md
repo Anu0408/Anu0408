@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact I enjoy solving complex machine learning problems just as much as I enjoy exploring the latest trends in fashion and beauty!
 
-- Visit my [Portfolio](https://anupamacv.com/) 🌐
+- 🌐 Visit my [Portfolio](https://anupamacv.com/) 🌐
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
