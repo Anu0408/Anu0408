@@ -1,6 +1,8 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub)  
+![Banner](![Header](./your-header-image-name.png)
+
+ 
 
 ---
 
