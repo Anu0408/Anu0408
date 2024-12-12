@@ -4,7 +4,7 @@
 **Anu0408/Anu0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Anu]([https://www.linkedin.com/in/anupamacv/]), a Senior Staff Engineer (Development, DevOps, Platform Engineering) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 🎯
+I am [Anu](https://www.linkedin.com/in/anupamacv/), a Senior Staff Engineer (Development, DevOps, Platform Engineering) from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 8+ years of professional onsite as well as remote working experience. 🎯
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
