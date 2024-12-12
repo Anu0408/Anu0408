@@ -35,7 +35,7 @@ I'm a **Machine Learning Engineer** with a passion for building intelligent syst
 ## 🛠️ Projects
 
 ### 🌟 **End-to-End ML Pipeline: Truck Delay Classification**
-![Truck Delay Classification](https://via.placeholder.com/800x400.png?text=Project+Image)
+![Truck Delay Classification](https://images.app.goo.gl/wgM3xhRr5xpXoBxdA//800x400.png?text=Project+Image)
 - **Description**: Built and deployed a machine learning pipeline to classify truck delays using AWS tools like SageMaker, RDS, and EC2.
 - **Tech Stack**: Python, Docker, PostgreSQL, Random Forest, XGBoost
 - [View Repository](https://github.com/yourusername/truck-delay-classification)
