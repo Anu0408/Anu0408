@@ -2,15 +2,6 @@
 
 ![Banner](![Header](./your-header-image-name.png)
 
- 
-
----
-
-<div align="center">
-    <img src="https://via.placeholder.com/200.png?text=Machine+Learning" alt="Machine Learning" style="border-radius: 50%; margin: 10px;">
-    <img src="https://via.placeholder.com/200.png?text=Data+Science" alt="Data Science" style="border-radius: 50%; margin: 10px;">
-    <img src="https://via.placeholder.com/200.png?text=Cloud+Computing" alt="Cloud Computing" style="border-radius: 50%; margin: 10px;">
-</div>
 
 ---
 
@@ -30,30 +21,6 @@ I'm a **Machine Learning Engineer** with a passion for building intelligent syst
 
 <div align="center">
     <img src="https://via.placeholder.com/800x400.png?text=Skills+Overview" alt="Skills Overview" style="margin: 20px; border: 2px solid #ccc;">
-</div>
-
----
-
-## 🛠️ Projects
-
-### 🌟 **End-to-End ML Pipeline: Truck Delay Classification**
-![Truck Delay Classification](https://images.app.goo.gl/wgM3xhRr5xpXoBxdA//800x400.png?text=Project+Image)
-- **Description**: Built and deployed a machine learning pipeline to classify truck delays using AWS tools like SageMaker, RDS, and EC2.
-- **Tech Stack**: Python, Docker, PostgreSQL, Random Forest, XGBoost
-- [View Repository](https://github.com/yourusername/truck-delay-classification)
-
-<div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=Project+Image" alt="Project Showcase" style="margin: 20px; border: 2px solid #ccc;">
-</div>
-
-### 🌟 **Multilingual Chatbot with Generative AI**
-![Chatbot](https://via.placeholder.com/800x400.png?text=Project+Image)
-- **Description**: Created a real-time chatbot for multilingual translation using Hugging Face and Llama.
-- **Tech Stack**: NLP, Python, LangChain, Docker
-- [View Repository](https://github.com/yourusername/multilingual-chatbot)
-
-<div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=Project+Image" alt="Project Showcase" style="margin: 20px; border: 2px solid #ccc;">
 </div>
 
 ---
