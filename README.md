@@ -100,10 +100,10 @@ I'm a **Machine Learning Engineer** with a passion for building intelligent syst
 ## 📫 Let's Connect
 
 <div align="center">
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://anupamacv.com/" target="_blank">
         <img src="https://via.placeholder.com/150x50.png?text=Portfolio" alt="Portfolio" style="margin: 10px;">
     </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/anupamacv/" target="_blank">
         <img src="https://via.placeholder.com/150x50.png?text=LinkedIn" alt="LinkedIn" style="margin: 10px;">
     </a>
     <a href="https://twitter.com/yourhandle" target="_blank">
