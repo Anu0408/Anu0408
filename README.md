@@ -35,9 +35,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anu0408" alt="anu0408" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu0408&show_icons=true&locale=en&layout=compact" alt="anu0408" /></p>
-<p><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu0408&show_icons=true&locale=en" alt="anu0408" /></p>
+<p><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu0408&" alt="anu0408" /></p>
 
