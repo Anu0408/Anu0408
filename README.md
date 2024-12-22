@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anu</h1>
-<h3 align="center">Experinced Machine Learning Engineer</h3>
+<h3 align="center">Experienced Machine Learning Engineer</h3>
 
 - 🎯 I specialize in developing and deploying end-to-end ML models with a focus on Generative AI, NLP, and MLOps, optimizing data pipelines, improving model accuracy, and deploying scalable solutions on cloud platforms like AWS, SageMaker. Skilled in leveraging Hopsworks, and MLflow for efficient model tracking and management. I drive innovation and improve business outcomes through effective data-driven solutions.
   
