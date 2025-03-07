@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anu</h1>
-<h3 align="center">Experienced Software Engineer/h3>
+<h3 align="center">Experienced Software Engineer</h3>
 
 - 🎯 I specialize in building scalable enterprise applications using Java/Spring microservices, React/Angular frontends, and cloud-native architectures. Skilled in leveraging Docker, Kubernetes, and CI/CD pipelines for efficient deployment and orchestration. I drive innovation and improve business outcomes through robust, high-performance software solutions.
   
