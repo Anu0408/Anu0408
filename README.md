@@ -10,13 +10,10 @@
 
 - 👯  I'm looking to collaborate on projects that involve developing, optimizing, and deploying scalable applications, especially those integrating microservices, event-driven architecture, and DevOps. I'm also interested in working with teams to solve real-world challenges using cloud technologies like AWS, Azure, and GCP.
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://anupamacv.com/) 🌐
-
 - 📫 Shoot Me an [Email](mailto:anu.cv48@gmail.com) 💌
 
 - ⚡ Fun fact I enjoy solving complex software architecture problems, just as much as I enjoy exploring the latest trends in fashion and beauty!
 
-- 🌐 Visit my [Portfolio](https://anupamacv.com/) 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
