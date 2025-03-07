@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Anu</h1>
-<h3 align="center">Experienced Machine Learning Engineer</h3>
+<h3 align="center">Experienced Software Engineer/h3>
 
-- 🎯 I specialize in developing and deploying end-to-end ML models with a focus on Generative AI, NLP, and MLOps, optimizing data pipelines, improving model accuracy, and deploying scalable solutions on cloud platforms like AWS, SageMaker. Skilled in leveraging Hopsworks, and MLflow for efficient model tracking and management. I drive innovation and improve business outcomes through effective data-driven solutions.
+- 🎯 I specialize in building scalable enterprise applications using Java/Spring microservices, React/Angular frontends, and cloud-native architectures. Skilled in leveraging Docker, Kubernetes, and CI/CD pipelines for efficient deployment and orchestration. I drive innovation and improve business outcomes through robust, high-performance software solutions.
   
-- 🔭 I’m currently working on Modern Machine Learning Project Development.
+- 🔭 I'm currently working on Modern Full-Stack Application Development.
 
-- 🌱 I’m currently learning Generative AI, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Fine-Tuning to master cutting-edge AI techniques.
+- 🌱  I'm currently learning cutting-edge frontend frameworks, serverless architectures, and advanced cloud deployment strategies to master modern software engineering techniques.
 
-- 👯 I’m looking to collaborate on projects that involve developing, optimizing, and deploying machine learning models, especially those integrating Generative AI, Large Language Models (LLMs), NLP, and MLOps. I’m also interested in working with teams to solve real-world challenges using data-driven solutions and cloud technologies like AWS, SageMaker, MLflow.
+- 👯  I'm looking to collaborate on projects that involve developing, optimizing, and deploying scalable applications, especially those integrating microservices, event-driven architecture, and DevOps. I'm also interested in working with teams to solve real-world challenges using cloud technologies like AWS, Azure, and GCP.
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://anupamacv.com/) 🌐
 
 - 📫 Shoot Me an [Email](mailto:anu.cv3@gmail.com) 💌
 
-- ⚡ Fun fact I enjoy solving complex machine learning problems just as much as I enjoy exploring the latest trends in fashion and beauty!
+- ⚡ Fun fact I enjoy solving complex software architecture problems, just as much as I enjoy exploring the latest trends in fashion and beauty!
 
 - 🌐 Visit my [Portfolio](https://anupamacv.com/) 
   
